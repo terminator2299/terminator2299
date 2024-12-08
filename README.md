@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Ios Development**
 
-- 👨‍💻 All of my projects are available at [https://terminator2299.github.io/Personal_portfolio/](https://terminator2299.github.io/Personal_portfolio/)
-
 - 💬 Ask me about **ML models , Swift etc..**
 
 - 📫 How to reach me **bhavya.code18@gmail.com**
