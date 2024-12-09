@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terminator2299" alt="terminator2299" /></a> </p>
 
-- 🌱 I’m currently learning **PostgresSql , Tensorflow**
+- 🌱 I’m currently learning **HuggingFace , GenAI**
 
 - 👯 I’m looking to collaborate on **LLM projects**
 
