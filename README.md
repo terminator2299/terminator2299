@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **LLM projects**
 
-- 🤝 I’m looking for help with **Ios Development**
+- 🤝 I’m looking for help with **GoLang**
 
-- 💬 Ask me about **ML models , Swift etc..**
+- 💬 Ask me about **ML models , React , PowerBi etc..**
 
 - 📫 How to reach me **bhavya.code18@gmail.com**
 
