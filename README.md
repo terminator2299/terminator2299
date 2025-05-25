@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavya Khandelwal</h1>
-<h3 align="center">🚀 Passionate ML Developer | India</h3>
+<h3 align="center">🚀 Passionate ML Developer | Ajmer,India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=terminator2299&label=Profile%20views&color=0e75b6&style=flat" alt="terminator2299" />
@@ -35,7 +35,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,react,nodejs,flask,django,git,github,docker,mysql,postgres,oracle,figma,tensorflow,pytorch,pandas,numpy,seaborn,opencv,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,react,nodejs,flask,django,git,github,docker,mysql,postgres,oracle,figma,tensorflow,pytorch,pandas,linux" />
 </p>
 
 ---
