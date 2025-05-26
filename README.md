@@ -19,7 +19,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/bhavya2299" target="_blank">
+  <a href="https://x.com/bhavya2299" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://instagram.com/bhavya__khandelwal" target="_blank">
