@@ -9,8 +9,8 @@
 
 - 🌱 Currently exploring **Hugging Face, Generative AI**
 - 🤝 Open to collaborating on **LLM Projects**
-- 📚 Learning **GoLang**
-- 💬 Ask me about **ML Models, React, Power BI**
+- 📚 Deepdiving in **Data Science** everyday
+- 💬 Ask me about **ML Models, SQL, React, Power BI**
 - 📫 Reach me at: **bhavya.code18@gmail.com**
 - 🎤 Fun fact: *I think I sing well 🎶*
 
