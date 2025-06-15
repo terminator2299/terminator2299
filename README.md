@@ -12,6 +12,7 @@
 - 📚 Deepdiving in **Data Science** everyday
 - 💬 Ask me about **ML Models, SQL, React, Power BI**
 - 📫 Reach me at: **bhavya.code18@gmail.com**
+- 🌐 Personal Portfolio: **https://bhavya-datascience.vercel.app/**
 - 🎤 Fun fact: *I think I sing well 🎶*
 
 ---
