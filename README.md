@@ -51,6 +51,14 @@
 
 ---
 
+### 📈 GitHub Activity Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminator2299&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 🏆 GitHub Achievements
 
 <p align="center">
@@ -59,12 +67,3 @@
 
 ---
 
-### 🐍 Contribution Snake (Fun Visualization)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/terminator2299/terminator2299/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
-> To enable the snake animation, follow [these instructions](https://github.com/Platane/snk#readme) to set up a GitHub Action.
-
----
