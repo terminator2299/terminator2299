@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Bhavya Khandelwal</h1>
-<h3 align="center">🚀 Passionate ML Developer | Ajmer,India</h3>
+<h3 align="center">🚀 Passionate ML Developer | Ajmer, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=terminator2299&label=Profile%20views&color=0e75b6&style=flat" alt="terminator2299" />
+  <img src="https://komarev.com/ghpvc/?username=terminator2299&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 - 🌱 Currently exploring **Hugging Face, Generative AI**
 - 🤝 Open to collaborating on **LLM Projects**
-- 📚 Deepdiving in **Data Science** everyday
+- 📚 Deep diving in **Data Science** every day
 - 💬 Ask me about **ML Models, SQL, React, Power BI**
 - 📫 Reach me at: **bhavya.code18@gmail.com**
-- 🌐 Personal Portfolio: **https://bhavya-datascience.vercel.app/**
-- 🗣️ My blogs: **https://talesx-bhavya.vercel.app/**
+- 🌐 Portfolio: [bhavya-datascience.vercel.app](https://bhavya-datascience.vercel.app/)
+- 📝 Blogs: [talesx-bhavya.vercel.app](https://talesx-bhavya.vercel.app/)
 - 🎤 Fun fact: *I think I sing well 🎶*
 
 ---
 
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://x.com/bhavya2299" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
@@ -36,19 +36,17 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,html,css,js,react,nodejs,express,flask,django,git,github,docker,mysql,postgres,figma,linux,vscode,tensorflow,pytorch" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,html,css,js,react,nodejs,express,flask,django,git,github,docker,mysql,postgres,figma,linux,vscode,tensorflow,pytorch" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terminator2299&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=terminator2299&theme=radical" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator2299&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=terminator2299&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator2299&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -61,4 +59,12 @@
 
 ---
 
+### 🐍 Contribution Snake (Fun Visualization)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/terminator2299/terminator2299/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+> To enable the snake animation, follow [these instructions](https://github.com/Platane/snk#readme) to set up a GitHub Action.
+
+---
