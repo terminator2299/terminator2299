@@ -13,6 +13,7 @@
 - 💬 Ask me about **ML Models, SQL, React, Power BI**
 - 📫 Reach me at: **bhavya.code18@gmail.com**
 - 🌐 Personal Portfolio: **https://bhavya-datascience.vercel.app/**
+- 🗣️ My blogs: **https://talesx-bhavya.vercel.app/**
 - 🎤 Fun fact: *I think I sing well 🎶*
 
 ---
