@@ -9,7 +9,7 @@
 
 🎯 **About Me**
 
-- 🌱 Currently diving into **Data, Salesforce**
+- 🌱 Love diving into **Data & turning chunk into magical rows **
 - 🤝 Open to collaborations in **LLM, NLP, and ML-focused Projects**
 - 📊 Learning & experimenting with **Data Science tools & real-world datasets**
 - 💬 Ask me about **Machine Learning, SQL, React, Power BI, Flask**
