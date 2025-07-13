@@ -1,74 +1,78 @@
-<h1 align="center">Hi 👋, I'm Bhavya Khandelwal</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | Data Science Practitioner | Ajmer, India</h3>
+<h1 align="center">Hey there 👋, I'm Bhavya Khandelwal</h1>
+<h3 align="center">Data Dreamer 🧠 | ML Explorer ⚙️ | Code Composer 🎶</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=terminator2299&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=terminator2299&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-🎯 **About Me**
+## 🧩 Who Am I?
 
-- 🌱 Love diving into **Data & turning chunk into magical rows**
-- 🤝 Open to collaborations in **LLM, NLP, and ML-focused Projects**
-- 📊 Learning & experimenting with **Data Science tools & real-world datasets**
-- 💬 Ask me about **Machine Learning, SQL, React, Power BI, Flask**
-- 🌐 Portfolio: [bhavya-datascience.vercel.app](https://bhavya-datascience.vercel.app/)
-- 📝 Blogs: [talesx-bhavya.vercel.app](https://talesx-bhavya.vercel.app/)
-- 📫 Reach out: **bhavya.code18@gmail.com**
-- 🎤 Fun Fact: *I can code and hit high notes 🎶*
+```python
+class Bhavya:
+    def __init__(self):
+        self.role = "Data Science & ML Explorer"
+        self.location = "Ajmer, India"
+        self.current_focus = ["LLMs", "NLP", "Real-world ML"]
+        self.tools_i_love = ["Python", "SQL", "Flask", "React", "Power BI"]
+    
+    def speak(self):
+        return "Let's build something magical with data!"
+```
 
----
+📌 I bridge data and decisions through intelligent systems.  
+💡 Currently exploring how LLMs & NLP can power personalized experiences.  
+🎯 Building ML apps with real-world use cases (ETL, dashboards, APIs, explainable AI).  
+✍️ I also write casually about tech: [Read my blog](https://bhavya-datascience.vercel.app)
 
-### 🌐 Let's Connect
+## 📁 Featured Work
+
+| Project | Description |
+|---------|-------------|
+| 🧠 AutoML Optimizer | Streamlined ML training with one-click model tuning and dashboards |
+| 📊 Job Market ETL | End-to-end data pipeline using Python, SQL, and Power BI |
+| 🧾 DocIQ OCR-NLP System | Extract and query data from documents using open-source models |
+| 🧰 Portfolio Website | [bhavya-datascience.vercel.app](https://bhavya-datascience.vercel.app) |
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/bhavya2299" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/bhavya__khandelwal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.leetcode.com/bhavya_3549" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  <a href="https://x.com/bhavya2299"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/bhavya__khandelwal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/bhavya_3549"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:bhavya.code18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-### 🛠️ Tech Stack & Tools
+## 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,html,css,js,react,nodejs,express,flask,django,git,github,docker,mysql,postgres,figma,linux,vscode,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,react,flask,django,pytorch,tensorflow,docker,git,github,vscode,figma,linux" />
 </p>
 
----
-
-### 📈 GitHub Stats
+## 📈 Stats, Because Why Not?
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terminator2299&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator2299&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=terminator2299&show_icons=true&theme=gruvbox&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminator2299&layout=compact&theme=gruvbox&hide_border=true" width="48%"/>
 </div>
 
----
-
-### 🔥 GitHub Contribution Graph
+## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminator2299&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=terminator2299&theme=rogue&hide_border=true" />
 </p>
 
----
-
-### 🏆 Achievements
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=terminator2299&theme=monokai&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=terminator2299&theme=onedark&no-frame=true&margin-w=15" />
 </p>
 
----
+<p align="center">
+  <b>"I don't just write code — I design experiences powered by data."</b> 🚀
+</p>
 
 <p align="center">
-  🚀 *“Keep building. Keep exploring. Keep improving.”*
+  <i>Let's turn questions into insights, and insights into action.</i>
 </p>
