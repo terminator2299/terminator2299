@@ -24,7 +24,7 @@ class Bhavya:
 📌 I bridge data and decisions through intelligent systems.  
 💡 Currently exploring how LLMs & NLP can power personalized experiences.  
 🎯 Building ML apps with real-world use cases (ETL, dashboards, APIs, explainable AI).  
-✍️ I also write casually about tech: [Read my blog](https://bhavya-datascience.vercel.app)
+✍️ I also write casually about tech: [Read my blog](https://talesx-bhavya.vercel.app/)
 
 ## 📁 Featured Work
 
