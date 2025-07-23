@@ -26,6 +26,11 @@ class Bhavya:
 🎯 Building ML apps with real-world use cases (ETL, dashboards, APIs, explainable AI).  
 ✍️ I also write casually about tech: [Read my blog](https://talesx-bhavya.vercel.app/)
 
+
+<p align="center">
+  <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
+</p>
+
 ## 📁 Featured Work
 
 | Project | Description |
@@ -38,10 +43,18 @@ class Bhavya:
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/bhavya2299"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/bhavya__khandelwal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/bhavya_3549"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:bhavya.code18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/bhavya2299">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/bhavya__khandelwal">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/bhavya_3549">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:bhavya.code18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ## 🛠️ My Toolbox
