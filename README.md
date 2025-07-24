@@ -46,9 +46,6 @@ class Bhavya:
   <a href="https://x.com/bhavya2299">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/bhavya__khandelwal">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/bhavya_3549">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -86,6 +83,3 @@ class Bhavya:
   <b>"I don't just write code — I design experiences powered by data."</b> 🚀
 </p>
 
-<p align="center">
-  <i>Let's turn questions into insights, and insights into action.</i>
-</p>
