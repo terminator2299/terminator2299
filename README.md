@@ -2,7 +2,7 @@
 <h3 align="center">Data Dreamer 🧠 | ML Explorer ⚙️ | Code Composer 🎶 | Good Vibes Only😉</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=terminator2299&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc?username=terminator2299&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 ---
