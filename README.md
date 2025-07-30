@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bhavya Khandelwal</h1>
-<h3 align="center">Data Dreamer 🧠 | ML Explorer ⚙️ | Code Composer 🎶 | Good Vibes Only😉</h3>
+<h3 align="center">Data Dreamer 🧠 | ML Explorer ⚙️ | Code Composer 🎶 | Diving into Salesforce☁️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc?username=terminator2299&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
