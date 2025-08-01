@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bhavya Khandelwal</h1>
-<h3 align="center">Data Dreamer 🧠 | ML Explorer ⚙️ | Code Composer 🎶 | Diving into Salesforce☁️</h3>
+<h3 align="center">Loves Data 🧠 | ML Explorer ⚙️ | Diving into Salesforce☁️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc?username=terminator2299&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
@@ -14,7 +14,7 @@ class Bhavya:
     def __init__(self):
         self.role = "Data Science & ML Explorer"
         self.location = "Ajmer, India"
-        self.current_focus = ["LLMs", "NLP", "Real-world ML"]
+        self.current_focus = ["LLMs", "NLP", "Real-world ML", "Salesforce"]
         self.tools_i_love = ["Python", "SQL", "Flask", "React", "Power BI"]
     
     def speak(self):
